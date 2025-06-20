@@ -3,82 +3,82 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: BTDevicesManager\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-29 20:16+0100\n"
-"PO-Revision-Date: 2019-07-23 15:35+0200\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2025-01-10 16:40+0000\n"
+"Last-Translator: pololoko111\n"
 "Language-Team: \n"
-"Language: fr\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "Audio Connect"
-msgstr "Connexion audio"
+msgstr "Połączenie audio"
 
 msgid "Audio Off"
 msgstr ""
 
 #, fuzzy
 msgid "Audio On"
-msgstr "Connexion audio"
+msgstr "Połączenie audio"
 
 msgid "Bluetooth Devices Manager"
-msgstr "Gestionnaire de périphériques Bluetooth"
+msgstr "Menedżer urządzeń Bluetooth"
 
 msgid "Bluetooth Devices Manager Setup"
-msgstr "Configuration du gestionnaire de périphériques Bluetooth"
+msgstr "Konfiguracja Menedżera urządzeń Bluetooth"
 
 msgid "Can't not pair with selected device!"
-msgstr "Impossible d’appairer avec l'appareil sélectionné!"
+msgstr "Nie można sparować z wybranym urządzeniem!"
 
 msgid "Connect"
-msgstr "Connecter"
+msgstr "Połącz"
 
 #, fuzzy
 msgid "Connected"
-msgstr "Connecter"
+msgstr "Połącz"
 
 msgid "Connection with:\n"
-msgstr "Connexion avec :\n"
+msgstr "Połączenie z:\n"
 
 msgid "Disconnect"
-msgstr "Déconnecter"
+msgstr "Rozłącz"
 
 msgid "Disconnect with:\n"
-msgstr "Déconnecter avec:\n"
+msgstr "Rozłącz się z:\n"
 
 #, fuzzy
 msgid "Disconnecting please wait..."
-msgstr "Déconnecter avec:\n"
+msgstr "Rozłącz się z:\n"
 
 msgid "Exit"
-msgstr "Quitter"
+msgstr "Wyjście"
 
 msgid "No connected to any device"
-msgstr "Non connecté à aucun appareil"
+msgstr "Nie połączono z żadnym urządzeniem"
 
 #, fuzzy
 msgid "Not connected"
-msgstr "Non connecté à aucun appareil"
+msgstr "Nie połączono z żadnym urządzeniem"
 
 msgid "Please Enter Passkey: \n"
-msgstr "Entrer la Passkey: \n"
+msgstr "Proszę wprowadzić hasło: \n"
 
 #, fuzzy
 msgid "Scan"
-msgstr "(Re)Scanner"
+msgstr "Skanuj"
 
 msgid "Scanning for devices..."
-msgstr "Recherche d'appareils....."
+msgstr "Skanowanie urządzeń..."
 
 msgid "This is bt devices manager"
-msgstr "C'est le gestionnaire de périphériques bt"
+msgstr "To jest menedżer urządzeń BT"
 
 msgid "Trying to pair with:"
-msgstr "Essai d’appairage avec:"
+msgstr "Próba sparowania z:"
